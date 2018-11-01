@@ -1,4 +1,4 @@
-/* Christopher Brisco
+/* A-Nony-Mus
 31 Jan. 2012
 Page 104, project 10
 This program takes two pairs of coordinates input by the user, and outputs the slope, midpoint, the slope of the perpendicular bisector, and the equation of the line
